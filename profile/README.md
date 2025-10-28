@@ -34,7 +34,7 @@ We believe in:
 
 ## 💡 Connect
 
-- 🌍 [https://futeq.com](https://futeq.com) *(coming soon)*  
+- 🌍 [https://futeq.com](https://futeq.com) 
 - 💬 [LinkedIn](https://www.linkedin.com/company/futeq)  
 - ✉️ contact@futeq.com
 
