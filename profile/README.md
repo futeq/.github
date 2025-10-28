@@ -13,12 +13,6 @@ We design and develop **modular building blocks** that empower enterprises to or
 Futeq builds with **clarity**, **resilience**, and **elegance** in mind.  
 We embrace **Clean Architecture**, **CQRS**, and **event-driven design** to ensure our systems scale with intelligence, not complexity.
 
-Our stack:
-- **.NET 9**, **C#**, **TypeScript**, **Blazor**, **gRPC**, **Azure**
-- **Bicep** & Infrastructure-as-Code for full reproducibility
-- **Kafka**, **Redis**, **PostgreSQL**, **Container Apps**
-- **JetBrains Rider**, **GitHub Actions**, **Jenkins**, **Makefile** automation
-
 ---
 
 ## 🚀 Vision
